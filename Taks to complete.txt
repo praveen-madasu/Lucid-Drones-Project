@@ -15,5 +15,5 @@ Deadline (by Nov 8th):
 
 Deadline (by Nov 11th):
 -----------------------
-1) Come up with a model for semantic segmentation. we can use deeplab.
+1) Come up with a model for semantic segmentation. (One option is, we can use deeplab).
 2) Train the model with our dataset.
