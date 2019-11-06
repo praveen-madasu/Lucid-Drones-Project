@@ -9,7 +9,6 @@ Deadline (by Nov 8th):
 	Roof
 	Facade
 	Sky
-	Wall
 	Road
 	Trees
 3) Crop the facade images, remove the segmented image associated with it.
