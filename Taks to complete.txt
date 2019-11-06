@@ -1,0 +1,20 @@
+Deadline (by Nov 8th):
+----------------------
+1) Divide creating labels among ourselves.
+	Yuryi		-	1-25 Roof images & 1-25 facade images
+	Chaitanya	-	25-50 Roof images & 25-50 facade images
+	Harika		-	50-75 Roof images & 50-75 facade images
+	Praveen		-	75-100 Roof images & 75-100 facade images
+2) We all have to use same label names, I'm thinking to have
+	Roof
+	Facade
+	Sky
+	Wall
+	Road
+	Trees
+3) Crop the facade images, remove the segmented image associated with it.
+
+Deadline (by Nov 11th):
+-----------------------
+1) Come up with a model for image segmentation.
+2) Train the model with our dataset.
