@@ -1,0 +1,6 @@
+_background_
+Roof
+Facade
+Sky
+Road
+Trees
