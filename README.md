@@ -9,4 +9,4 @@
 
 5)And then calculate the area through the mask that has been achieved through Lucid_unet.ipynb.
 
-6) The formulas are included.
+6) The formulas through which the area is calculated are available in the Formulas.txt file
